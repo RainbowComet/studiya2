@@ -1,5 +1,5 @@
 	<!--Карточка-->
-	<!--<div class="product d-flex">
+	<div class="product d-flex">
 		<img src="img/product1.jpg">
 		<div class="product__description d-flex">
 			<h2 class="product__description_title">Деталь</h2>
@@ -9,4 +9,4 @@
 				<button class="product__btn d-flex"><span>В корзину</span><img src="img/toBusket.png"></button>
 			</div>
 		</div>
-	</div>-->
+	</div>

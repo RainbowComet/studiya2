@@ -174,7 +174,7 @@
 		width: 98vw;
 		box-sizing: border-box;
 	}
-	.inner-menu {
+	.mobile-menu__item > .show_content {
 		margin-top: 15px;
 	}
 	.mobile-menu > li, .inner-menu__item, .menu_title {

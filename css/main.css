@@ -677,3 +677,7 @@ footer {
 	transition: .4s ease;
 	height: 0px;
 }
+@font-face {
+            font-family: Proxima Nova;
+            src: url(Proxima_Nova.ttf)
+        }
